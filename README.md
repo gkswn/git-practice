@@ -18,9 +18,9 @@ $ pip install -r requirements.txt
 
 ### How To Start
 
-'''shell
+...shell
 $ python main.py
-'''
+...
 
 ### Dependency
 
